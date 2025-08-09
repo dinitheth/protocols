@@ -7,6 +7,7 @@ for upload to a DB
 """
 
 #import libraries
+import utils.session
 import argparse
 import csv
 import json
